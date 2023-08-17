@@ -3,7 +3,7 @@
 Я **Ольга Белоглазова**, начинающий тестировщик ПО.
 
 ### Вот, что я умею:
-- Ручное тестирование веб-приложений, проекты по курсу[https://github.com/FecklaSveckla/FecklaSveckla/blob/main/HomeworkIntroductiontoTesting];
+- Ручное тестирование веб-приложений, [проекты по курсу](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/HomeworkIntroductiontoTesting);
 - Курсовой проект к модулю, "Ручное тестирование веб-приложений";
 - Java для тестировщиков, проекты по курсу;
 - Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг), проекты по курсу;
