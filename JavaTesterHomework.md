@@ -1,10 +1,10 @@
 ### Пректы по курсу "Java для тестировщиков"
 
-1. ["Введение в Java: JDK, JRE, JVM, IntelliJ IDEA"]([https://github.com/ValeryiaTureika/L1.2.](https://github.com/FecklaSveckla/Introduction-to-Java)),
+1. ["Введение в Java: JDK, JRE, JVM, IntelliJ IDEA"](https://github.com/FecklaSveckla/Introduction-to-Java),
 2. "Примитивные типы данных, условные операторы, выход за границы типов и погрешность вычислений" [Задание 1](https://github.com/FecklaSveckla/BonusMiles), [Задание 2](https://github.com/FecklaSveckla/PhoneBonus),
 3. "Testability, автотесты, введение в ООП: объекты и методы" [Задание 1](https://github.com/FecklaSveckla/BonusMilesAdd), [Задание 2](https://github.com/FecklaSveckla/IndexMass),
 4. ["Система сборки Maven, управление зависимостями, автотесты на JUnit5"](https://github.com/FecklaSveckla/MavenFirstTest),
-5. "Циклы, параметризованные тесты и аннотации" [часть 1](https://github.com/FecklaSveckla/Exponentiation), часть 2 [задание 1](https://github.com/FecklaSveckla/FirstParameterTest),
+5. "Циклы, параметризованные тесты и аннотации" [Часть 1](https://github.com/FecklaSveckla/Exponentiation), [Часть 2](https://github.com/FecklaSveckla/FirstParameterTest),
 6. ["Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, статический анализ кода: CheckStyle, SpotBugs"](https://github.com/FecklaSveckla/JaCoCo),
 7. ["Объектно-ориентированное программирование и проектирование"](https://github.com/FecklaSveckla/Radio),
 8. ["Объектно-ориентированное программирование: ключевые принципы"](https://github.com/FecklaSveckla/Post/tree/main1),
