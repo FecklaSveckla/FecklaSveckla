@@ -35,6 +35,16 @@
 - Опыт ручного тестирование работы в рамках тестовых прогонов
 - Документальное сопровождение продукта (ГОСТ серии 19.ххх, 34; знакома со стандартам IEEE STD 830-1998, ISO/IEC/IEEE 29148-2001, RUP,  SWEBOK)
 
+
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FecklaSveckla&theme=buefy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FecklaSveckla&theme=buefy)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FecklaSveckla&theme=buefy)
+
+
+
   
 
  
