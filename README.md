@@ -1,8 +1,8 @@
 ### Здравствуйте!
 
-### Меня зовут Ольга, я начинающий тестировщик ПО.
+### Меня зовут Ольга, я тестировщик ПО.
 
-#### Мои проекты в рамках курса обучения Тестировщик ПО на платформе Нетология:
+#### Мои проекты:
 
 - Ручное тестирование веб-приложений, [проекты по курсу](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/HomeworkIntroductiontoTesting);
 - [Курсовой проект к модулю](https://docs.google.com/document/d/1BaFi8vJ_C6zmVfBg3IHFha3w0ltfpXpOa9QPlrRX5Xo/edit?usp=sharing) "Ручное тестирование веб-приложений";
@@ -10,7 +10,7 @@
 - Автоматизированное тестирование (Тестирование API, Selenium, Selenide, Docker, Docker-compose, SQL, Репортинг). [Проекты по курсу](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/HomeworkAutomatedTesting.md);
 - [Дипломный проект](https://github.com/FecklaSveckla/Diplom/blob/main/README.md) "Автоматизация тестирования комплексного сервиса покупки тура, взаимодействующего с СУБД и API Банка".
 
-  #### Мои навыки после прохождения обучения:
+  #### Мои навыки:
 
 - Актуальные теории тестирования и жизненный цикл разработки ПО
 - Знание техник тест-дизайна
