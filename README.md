@@ -35,6 +35,14 @@
 - Опыт ручного тестирование работы в рамках тестовых прогонов
 - Документальное сопровождение продукта (ГОСТ серии 19.ххх, 34; знакома со стандартам IEEE STD 830-1998, ISO/IEC/IEEE 29148-2001, RUP,  SWEBOK)
 
+#### Сертификаты:
+
+- [Курс Тестировщик](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate.md);
+- [Java для тестировщиков](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate%20(java).md);
+- [GIT - система контроля версий](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate%20(git).md);
+ 
+  
+
 
 
 
