@@ -37,7 +37,7 @@
 
 #### Сертификаты:
 
-- [Курс Тестировщик](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate.md);
+- [Курс Тестировщик ПО](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate.md);
 - [Java для тестировщиков](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate%20(java).md);
 - [GIT - система контроля версий](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/certificate%20(git).md);
  
