@@ -2,7 +2,7 @@
 
 ### Меня зовут Ольга, я тестировщик ПО.
 
-#### Мои проекты:
+#### Учебные проекты на курсе Нетологии:
 
 - Ручное тестирование веб-приложений, [проекты по курсу](https://github.com/FecklaSveckla/FecklaSveckla/blob/main/HomeworkIntroductiontoTesting.md);
 - [Курсовой проект к модулю](https://docs.google.com/document/d/1BaFi8vJ_C6zmVfBg3IHFha3w0ltfpXpOa9QPlrRX5Xo/edit?usp=sharing) "Ручное тестирование веб-приложений";
